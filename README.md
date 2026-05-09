@@ -1,7 +1,9 @@
 # Myers_Johnny_JSON-Based_Learning_Chatbot
 
 Class:
+
 COP2800-3 held by Professor Stevan Stankovic.
+
 
 Prompt:
 Write a program that implements a console-based chatbot that reads predefined question–answer pairs from a JSON file and uses them to communicate with a user.
@@ -12,9 +14,15 @@ The overall implementation should demonstrate proper use of classes, methods, co
 This program shows how structured data processing can resemble an AI-like behavior and how chatbots rely on pattern matching rather than true understanding.
 
 Grading:
+
 Basic Java functionality                     30 points
+
 JSON parsing and file I/O                    20 points
+
 Program design and OOP                       15 points
+
 Exception handling                           10 points
+
 Partial matching/multi responses             10 points
+
 Reflection                                   15 points
